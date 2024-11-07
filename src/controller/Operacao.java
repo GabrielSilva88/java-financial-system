@@ -13,6 +13,7 @@ public class Operacao {
 	
 	public void adicionarTransacoes(Transacao transacao) {
 		transacoes.add(transacao);
+		
 	}
 	
 	public void exibirExtrato() {
